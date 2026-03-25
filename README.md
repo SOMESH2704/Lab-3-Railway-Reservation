@@ -1,25 +1,64 @@
-# Lab-3-Railway-Reservation
+Exp 03- RAILWAY MANAGEMENT SYSTEM
 
-### AIM:
-To develop the Railway Reservation System using Star UML tool.
-### PROBLEM STATEMENT:
-1. An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing
-passengers, particularly in the commercial airline, railway industries.
-2. An E-Ticket offers many advantages for both travelers and airline including security,
-flexibility and cost convenience. At the same time, it also provides the standard assurance of
-the traditional paper ticket, scaling choice, travel time options and other flexibilities.
-3. Passengers typically print out copies of their E-Ticket including confirmation E-mail
-and other document. All those documents can be replaced by pulling them out of the computer
-again and only a person with proper identification can actually use an E-Ticket.
-4. E-Ticket passengers can receive everything from gate assignments to cancellation or
-delay through E-mail, text messages sent to their home or business computers or to their cell
-phones.
-5. Finally, using E-Ticket is a more environmental friendly approach. The main purpose
-of the online bus ticket system is to provide another way for transnational customers to buy
-their tickets.
-### UML DIAGRAMS:
+AIM:
+
+To develop the Online Ticket Reservation System using Star UML tool.
+
+PROBLEM STATEMENT:
+
+Step 1: Problem Identification
+
+Manual railway operations such as ticket booking, train scheduling, and passenger management are slow and error-prone. The system aims to automate these processes for efficiency and accuracy.
+
+Step 2: Requirement Analysis
+
+Users: Passenger, Admin, and Booking Clerk. Main Functions: Train schedule management, ticket booking/cancellation, seat availability check, fare calculation, and report generation. Non-Functional Needs: High reliability, data security, and user-friendly interface.
+
+Step 3: System Design
+
+Draw UML diagrams:
+
+1.Use Case Diagram
+
+2.Class Diagram
+
+3.Activity Diagram
+
+4.Sequence Diagram
+
+5.Communication Diagram
+
+6.Package diagrams.
+
+Create database tables for Trains, Passengers, Tickets, and Schedules.
+
+UML DIAGRAMS:
 
 
+USECASE:
 
-### RESULT:
+<img width="1225" height="1056" alt="image" src="https://github.com/user-attachments/assets/bf0c56af-ce45-420d-bd8c-2d80c57857f2" />
+
+CLASS DIAGRAM:
+
+<img width="1200" height="1040" alt="image" src="https://github.com/user-attachments/assets/fd3cbc55-70bb-4a65-a20f-8d021572273b" />
+
+SEQUENCE DIAGRAM:
+
+<img width="1233" height="1070" alt="image" src="https://github.com/user-attachments/assets/11eefd98-1d26-4be1-bece-6f405152bc67" />
+
+COMMUNICATION DIAGRAM:
+
+<img width="1229" height="1069" alt="image" src="https://github.com/user-attachments/assets/0dfa6e54-287b-452f-993a-dce326534c64" />
+
+ACTIVITY DIAGRAM:
+
+<img width="1203" height="1045" alt="image" src="https://github.com/user-attachments/assets/cf138b33-7862-4e7c-97de-cd0af0109f01" />
+
+PACKAGE DIAGRAM:
+
+<img width="1217" height="1057" alt="image" src="https://github.com/user-attachments/assets/a2077805-d385-42f1-a167-f053f3248579" />
+
+RESULT:
+
 Thus the project to develop e-ticketing system was developed using Star UML Software.
